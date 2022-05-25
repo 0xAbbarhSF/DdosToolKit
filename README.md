@@ -14,7 +14,7 @@ A Distributed Denial of Service (DDoS) attack is a non-intrusive internet attack
 
 * pkg update && pkg upgrade -y
 * pkg install git -y
-* git clone https://github.com/AbbarhSF/DdosToolKit
+* git clone https://github.com/0xAbbarhSF/DdosToolKit
 * cd DdosToolKit
 * chmod +*
 
