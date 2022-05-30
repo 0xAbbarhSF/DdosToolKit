@@ -209,8 +209,8 @@ print \
 _________________________________________________________________
 
   ################## Smoking loud I'm a lonely cloud
-  #SadBoys 2001    # I'm a lonely cloud, with my windows down
-  #Yoshi city      # I'm a lonely, lonely, I'm a lonely, lonely
+  #0xAbbarhSF 2001    # I'm a lonely cloud, with my windows down
+  #0x* city      # I'm a lonely, lonely, I'm a lonely, lonely
   #Akira botnet    # I'm a lonely, lonely, I'm a lonely, lonely
   #Add Sites       # I'm a lonely, lonely, I'm a lonely, lonely
   ################## I'm a lonely, lonely, I'm a lonely, lonely
