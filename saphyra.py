@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------------------------
-# Saphyra - DDoS Tool
+# Saphyra - DDoS Toolv2 Alpha
 #
 # The DDoS Protocol is the most massive type of attack
-# This tool can tangodown nasa and more gov websites
+# This tool can take down nasa and more gov websites
 # 
 #
 # author : Anonymous , version 1.0
@@ -3444,8 +3444,8 @@ ___<__(|) _   **-/  / /   /
       /  / /   /  
      /  |,'   /  
     :   /    /
-    [  /   ,'     ~>Saphyra DDoS Tool<~
-    | /  ,'      ~~>Created By Anonymous<~~
+    [  /   ,'     ~>Saphyra DDoS Toolv2 Alpha<~
+    | /  ,'      ~~>Created By 0xAbbarhSF<~~
     |/,-'
     '
                                                        
