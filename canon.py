@@ -1,5 +1,5 @@
-#code by Anonymous
-#Name code : canon.py ver4
+#coded by 0xAbbarhSF
+#Name code : canon.py verAlpha
 import urllib2
 import sys
 import threading
