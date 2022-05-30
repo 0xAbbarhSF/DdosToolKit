@@ -4,8 +4,8 @@
 # The DDoS Protocol is the most massive type of attack
 # This tool can take down nasa and more gov websites
 # 
-#
-# author : Anonymous , version 1.0
+# Got a death warrant
+# author :0xAbbarhSF , versionAlpha
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys
