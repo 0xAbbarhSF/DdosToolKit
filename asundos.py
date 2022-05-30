@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #asunderdos.py(Slow GET request resource Hog with ideas from slowloris/slow-read/sockstress/torshammer)
-#Normal Execution: ./asunderdos.py -T -t www.site.com -p 80 [-p=port -t=target -r threads(256 default) -T=tor]
+#Normal Execution: ./asunderdos.py -T -t www.facebook.com -p 80 [-p=port -t=target -r threads(256 default) -T=tor]
 import os
 import re
 import time
@@ -335,7 +335,7 @@ def main(argv):
 
 if __name__ == "__main__":
     print "\n/*"
-    print " *"+term.GREEN + "Anonymous"
+    print " *"+term.GREEN + "Anonymous 0xAbbarhSF"
     print " * We Do Not Forgive"
     print " * We Do Not Forget"
     print " * We are The Voice of the Voiceless "
